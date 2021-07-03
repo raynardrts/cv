@@ -6,7 +6,7 @@ hr{
   border-right:none;
   border-left:none;
   border-bottom:thick dotted grey;
-  height: 0;
+  height: 20px;
   width: 5%;
 }
 h1{
